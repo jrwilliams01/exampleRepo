@@ -1,0 +1,1 @@
+Git let's people push and pull code from Comp to Comp thru it's cloud as well as cloning.
